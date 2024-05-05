@@ -1,0 +1,65 @@
+absl-py
+astunparse
+Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
+certifi
+charset-normalizer
+click
+colorama
+dnspython
+email_validator
+Flask
+Flask-Cors
+flask-mongoengine
+Flask-WTF
+flatbuffers
+gast
+google-pasta
+grpcio
+h5py
+idna
+itsdangerous
+Jinja2
+joblib
+keras
+libclang
+Markdown
+markdown-it-py
+MarkupSafe
+mdurl
+mkl-fft
+mkl-random @ file:///C:/Users/dev-admin/mkl/mkl_random_1682977971003/work
+mkl-service
+ml-dtypes
+mongoengine
+namex
+numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
+numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
+opencv-python
+opt-einsum
+optree
+packaging
+pandas @ file:///C:/ci_311_rebuilds/pandas_1679004481142/work
+pillow
+protobuf
+Pygments
+pymongo
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv
+pytz @ file:///C:/ci_311/pytz_1676427070848/work
+requests
+rich
+scikit-learn
+scipy
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorboard
+tensorboard-data-server
+tensorflow
+tensorflow-intel
+tensorflow-io-gcs-filesystem
+termcolor
+threadpoolctl
+typing_extensions
+urllib3
+Werkzeug
+wrapt
+WTForms
